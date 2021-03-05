@@ -1,4 +1,9 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="f[srl`.iK]lN)d|EZ1=o" x="0" y="0"><statement name="HANDLER"><block type="game_show_long_text" id="Kr-U$GJYuEOk(wF1X2Vr"><field name="layout">DialogLayout.Full</field><value name="str"><shadow type="text" id="w6Ky;r~NMCf*A8v:t#v="><field name="TEXT">you chose this team yes i see i see wise you are i like the team you chose i know i just know you are very wise cause this choice is wise i can tell you team play n sip this is what you chose this is your team.</field></shadow></value><next><block type="gamesetbackgroundimage" id="1o}#9/N=uA.(sRNWLp_7"><value name="img"><shadow type="background_image_picker" id="BDK|P/:r(xr3`fQ=GsQI"><field name="img">img`
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image1":return img`
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
@@ -119,4 +124,17 @@
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value></block></next></block></statement></block></xml>
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
